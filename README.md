@@ -1,8 +1,6 @@
-[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/airbnb/javascript?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+# (Deprecated) Airbnb JavaScript Style Guide() {
 
-# Airbnb JavaScript Style Guide() {
-**Bài viết gốc** [Airbnb](https://github.com/airbnb/javascript)
-
+**Bản cập nhật mới nhất** [Javascript style guide](https://github.com/hngnaig/javascript)
 
 <a name="table-of-contents"></a>
 ## Table of Contents
